@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Kasey Swokowski",
+    "occupation": "Full Stack JavaScript Dev!",
+    "description": "I eat, sleep and breathe Code!",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Kasey! I've been coding for over 1 1/2 years now. As a Full Stack developer I am constantly learning new ideas and new techniques in the space! I am very hard working and communicate well and believe I would be a great addition to any team!",
+    "contactmessage": "Get in touch with me to be a part of my journey!",
+    "email": "swokowski11@hotmail.com",
+    "phone": "(920)=629-9201",
+    "address": {
+      "street": "123 Dev Lane",
+      "city": "Chicago",
+      "state": "Devosphere",
+      "zip": "W3B D3V"
+    },
+    "website": "https://github.com/kaseyswokowski",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/kaseyswokowski",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Various Online Programs",
+        "degree": "Team Treehouse Tech Degree",
+        "graduated": "2021",
+        "description": "Online Courses"
+      }
+    ],
+    "work": [
+      {
+        "company": "Kasey",
+        "title": "Personal Projects",
+        "years": "2020 - Present",
+        "description": "Cloning popular websites, original ideas, and much more to come!"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "PHP",
+        "level": "10%"
+      },
+      {
+        "name": "Git",
+        "level": "40%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix.jpg",
+        "url": "https://github.com/kaseyswokowski/netflix"
+      },
+      {
+        "title": "Teamtreehouse React App (React JS)",
+        "category": "",
+        "image": "teamtreehouse.jpg",
+        "url": "https://github.com/kaseyswokowski/github.io-fullstack"
+      },
+      {
+        "title": "Teamtreehouse SQL Project (SQL)",
+        "category": "",
+        "image": "teamtreehouse.jpg",
+        "url": "https://github.com/kaseyswokowski/.github.io-sqllbrarymanager"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Lorem ipsum dolor sit amet, an usu dicam nusquam, cu atomorum platonem his. Usu quando laudem ad, munere maluisset ullamcorper an pro. Vidit vocent inimicus ea mel, dicta nusquam ne vel, choro consequat his ei. Vim assum electram an, vocent consulatu sed ut.",
+        "user": "JRandom User"
+      },
+      {
+        "text": "Possit essent scribentur usu ut. Vix ut aperiri feugait honestatis, quem quaestio interesset cu est, at tota quidam tritani cum. Id nullam impetus eam, ea iudico alienum eum. Id ornatus convenire incorrupte vis. Iudico quaerendum his in.",
+        "user": "Random User"
+      }
+    ]
+  }
+}
